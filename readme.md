@@ -65,45 +65,66 @@ However, a 7.4 CGPA perfectly aligns with the eligibility criteria for automated
 
 ---
 
-## The Definitive 2026–2027 Institutional ROI Matrix
+## The Definitive 2026–2027 Institutional ROI Matrix — Complete Final Version
+
+**Compiled September 1, 2026 — All columns restored + newly verified additions**
 
 The following comprehensive matrix cross-verifies 31 Australian institutions offering Master of Computer Science or Information Technology programs. The institutions are ranked according to a proprietary ROI model that balances the practical annual fee (after the application of scholarships viable for a 7.4 CGPA), global brand equity (QS World University Rankings by Subject 2026/2027), and the availability of regional migration extensions.
 
-> **Methodological Note:** Official Annual Fees represent the estimated cost for one academic year (typically 80-96 credit points) in Australian Dollars (AUD) for the 2026/2027 cycle, based on official institutional schedules and prominent education consultancies. Practical Annual Fees reflect the deduction of guaranteed or highly probable scholarships for an Indian candidate presenting a 7.4 CGPA. Ranking data utilizes the QS World University Rankings by Subject (Computer Science and Information Systems) 2026 parameters where available.
+### What's New and How It Was Verified
 
-| ROI Rank | Institution | Global CS Rank (QS 2026) | AU CS Rank | Regional Status | Official Annual Fee (AUD) | Brand Image & Tier | Viable Scholarship for CGPA 7.4 (Indian National) | Practical Annual Fee (AUD) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | University of Western Australia (UWA) | #77 | 7 | Yes (Perth) | $52,600 | Go8 Elite | Global Excellence Scholarship (Up to $12k/yr based on ATAR/WAM equiv) | ~$40,600 |
-| 2 | Australian National University (ANU) | #48 | 3 | Yes (Canberra) | $56,120 | Go8 Elite | Chancellor's International Scholarship (25% automatic) | $42,090 |
-| 3 | Deakin University | #172 | 12 | Yes (Geelong/Waurn Ponds) | $44,200 | ATN / Industry | Deakin International Scholarship (25% tuition fee reduction) | $33,150 |
-| 4 | University of Wollongong (UOW) | 201-250 | 14 | Yes (Wollongong) | $44,736 | High Regional | University Excellence Scholarship (30% fee reduction) | $31,315 |
-| 5 | University of Adelaide | #73 | 8 | Yes (Adelaide) | $54,900 | Go8 Elite | Global Citizens Scholarship (15% to 30% dependent on equivalent score) | ~$46,665 |
-| 6 | University of Tasmania (UTAS) | 301-350 | 20 | Yes (Hobart) | ~$35,000 | Mid Regional | Tasmanian International Scholarship (25% reduction) | ~$26,250 |
-| 7 | University of Southern Queensland (UniSQ) | 351-400 | 22 | Yes (Toowoomba) | $31,840 | High Affordability | International Student Support (10% reduction) | $28,656 |
-| 8 | University of Sydney (USYD) | #38 | 2 | No (Sydney) | $57,900 | Go8 Elite | Sydney International Student Award (20% automatic for India) | $46,320 |
-| 9 | RMIT University | #117 | 10 | No (Melbourne) | $44,160 | ATN / Tech Elite | Regional/STEM bursaries (Up to 20%, highly competitive) | ~$35,328 |
-| 10 | Queensland Univ of Technology (QUT) | #160 | 11 | No (Brisbane) | $45,000 | ATN / Industry | International Merit Scholarship (25% for high GPA) | ~$33,750 |
-| 11 | University of Technology Sydney (UTS) | #55 | 6 | No (Sydney) | $55,375 | ATN / Tech Elite | International Academic Excellence (15-25% competitive) | ~$47,068 |
-| 12 | Monash University | #51 | 4 | No (Melbourne) | $55,500 | Go8 Elite | Monash International Merit ($10,000/yr, highly competitive) | ~$45,500 |
-| 13 | Macquarie University | #101 | 9 | No (Sydney) | $46,300 | Mid-Tier Metro | Regional/India specific awards ($10,000 flat) | ~$36,300 |
-| 14 | Griffith University | 201-250 | 15 | Yes (Gold Coast) | $43,500 | High Regional | International Student Scholarship (20-25%) | ~$34,800 |
-| 15 | Swinburne University of Technology | 251-300 | 17 | No (Melbourne) | $45,010 | ATN / Industry | STEM Postgraduate Scholarship (30% reduction) | $31,507 |
-| 16 | University of Newcastle | 251-300 | 16 | Yes (Newcastle) | $47,600 | Mid Regional | International Excellence (20% reduction) | $38,080 |
-| 17 | Western Sydney University (WSU) | 251-300 | 18 | No (Sydney) | $42,240 | Mid-Tier Metro | Vice-Chancellor's Academic (up to $6,000/yr) | ~$36,240 |
-| 18 | Flinders University | 301-350 | 19 | Yes (Adelaide) | $42,900 | Mid Regional | Go Beyond Scholarship (25% reduction) | $32,175 |
-| 19 | University of South Australia (UniSA) | 301-350 | 21 | Yes (Adelaide) | $37,100 | ATN / Regional | Vice Chancellor's International (15-50% competitive) | ~$31,535 |
-| 20 | Charles Darwin University (CDU) | 401-450 | 24 | Yes (Darwin) | ~$35,000 | High Affordability | Global Excellence (15-30% reduction) | ~$29,750 |
-| 21 | Charles Sturt University (CSU) | 451-500 | 25 | Yes (Regional NSW) | $33,216 | High Affordability | International Student Support (10-20%) | ~$29,894 |
-| 22 | Federation University | 500+ | 26 | Yes (Ballarat) | $30,600 | High Affordability | Global Innovator (20% reduction) | $24,480 |
-| 23 | Univ of the Sunshine Coast (UniSC) | 500+ | 27 | Yes (Sunshine Coast) | $29,600 | High Affordability | International Support (15% reduction) | $25,160 |
-| 24 | Curtin University | 151-200 | 13 | Yes (Perth) | ~$40,000 | Mid Regional | Global Future Leaders (25% reduction) | ~$30,000 |
-| 25 | Murdoch University | 401-450 | 28 | Yes (Perth) | ~$38,000 | High Affordability | International Welcome Scholarship (20%) | ~$30,400 |
-| 26 | Edith Cowan University (ECU) | 401-450 | 29 | Yes (Perth) | ~$36,000 | High Affordability | International Masters Scholarship (20%) | ~$28,800 |
-| 27 | La Trobe University | 301-350 | 23 | Yes (Regional Vic) | ~$42,000 | Mid Regional | Excellence Scholarship (up to 50%, 20% highly likely) | ~$33,600 |
-| 28 | Victoria University | 451-500 | 30 | No (Melbourne) | ~$35,000 | Mid-Tier Metro | Global Scholarship (20% reduction) | $28,000 |
-| 29 | Bond University | Unranked | 31 | Yes (Gold Coast) | ~$50,000 | Private Elite | Transformer/Excellence Scholarships (up to 50%) | ~$35,000 |
-| 30 | University of New South Wales (UNSW) | #54 | 5 | No (Sydney) | $63,000 | Go8 Elite | UNSW International Academic Award (15% competitive) | $53,550 |
-| 31 | University of Melbourne | #31 | 1 | No (Melbourne) | $62,976 | Go8 Elite | Merit only (Statistically unlikely with 7.4 CGPA) | $62,976 |
+- **485 Visa Duration:** Applies the confirmed 2026 rule (2 years metro / 3 years regional base, +1 year AI-ECTA bonus for Indian graduates) to each institution's already-verified regional status. This is a rule application, not an estimate.
+- **WIL / Internship:** From the prior research pass — official course pages, handbooks, WIL office documentation.
+- **QILT Employment & Salary Rank:** Sourced from the Australian Government's 2024 Graduate Outcomes Survey (GOS) **International Report** — specifically **international postgraduate coursework graduates, pooled 2022–24**. This is the correct cohort (postgrad, international) but **the institution-level breakdown is for ALL FIELDS combined, not IT-specific** — QILT doesn't publish institution × field combinations at this granularity because sample sizes get too small. Each institution's rank is out of ~41 universities nationally, plus the real national IT-specific benchmark separately below. No percentages or dollar figures are invented — only real rank positions from the official chart, and the few exact figures the report states in text.
+- **Employer Partners:** Only named where an official university source explicitly named them for a CS/IT-relevant program. Left honest ("not documented") where none were found.
+
+> **National benchmark for context (2024 QILT, Computing & Information Systems, postgrad coursework, INTERNATIONAL students):** Full-time employment 49.0%, overall employment 67.5%, median salary $70,000. (For comparison, domestic students in the same field: 81.2% full-time employment, $110,000 median salary — the international/domestic gap is real and substantial, largely driven by age/experience and visa-related hiring hesitancy, per QILT's own analysis.)
+
+> **Methodological Note:** Official Annual Fees represent the estimated cost for one academic year (typically 80-96 credit points) in Australian Dollars (AUD) for the 2026/2027 cycle, based on official institutional schedules and prominent education consultancies. Practical Annual Fees reflect the deduction of guaranteed or highly probable scholarships for an Indian candidate presenting a 7.4 CGPA. Ranking data utilizes the QS World University Rankings by Subject (Computer Science and Information Systems) 2026 parameters where available. QILT ranks are out of ~41 Australian universities, international postgraduate coursework cohort, ALL FIELDS pooled 2022–24 (not IT-specific — see note above). Rank 1 = best.
+
+| ROI Rank | Institution | Global CS Rank | AU CS Rank | Regional | Official Fee | Brand Tier | Scholarship (7.4 CGPA) | Practical Fee | 485 Visa (incl. AI-ECTA) | WIL / Internship | QILT Employ. Rank (Int'l PG) | QILT Salary Rank (Int'l PG) | Named Employer Partners |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | UWA | #77 | 7 | Yes (Perth) | $52,600 | Go8 Elite | Global Excellence ($12k/yr) | ~$40,600 | **4 yrs** | Optional (CITS3009); pay not stated | 16th/41 (above avg) | **1st/41 (highest, $75,000)** | Not documented for MIT |
+| 2 | ANU | #48 | 3 | Yes (Canberra) | $56,120 | Go8 Elite | Chancellor's (25%) | $42,090 | **4 yrs** | Optional (Internship or TechLauncher); pay not stated | 20th/41 (average) | 9th/41 (above avg) | CSIRO, govt agencies (general, not MIT-specific) |
+| 3 | Deakin | #172 | 12 | Yes (Geelong) | $44,200 | ATN/Industry | Deakin Int'l (25%) | $33,150 | **4 yrs** | SIT344 confirmed **paid**; others may be paid/unpaid | 27th/41 (below avg) | 36th/41 (low) | IBM, KPMG, EY, ANZ, Singapore Airlines (university-wide, not confirmed IT-specific) |
+| 4 | UOW | #201-250 | 14 | Yes (Wollongong) | $44,736 | High Regional | Univ Excellence (30%) | $31,315 | **4 yrs** | Weak/unconfirmed structure | 31st/41 (below avg) | 25th/41 (below avg) | Not documented |
+| 5 | Adelaide | #73 | 8 | Yes (Adelaide) | $54,900 | Go8 Elite | Global Citizens (15–30%) | ~$46,665 | **4 yrs** | Not embedded in this degree | 35th/41 (low) | 38th/41 (very low) | DSTG, Lockheed Martin, DXC Technology (general Engineering/IT office, not MCompSc-specific) |
+| 6 | UTAS | #301-350 | 20 | Yes (Hobart) | ~$35,000 | Mid Regional | Tasmanian Int'l (25%) | ~$26,250 | **4 yrs** | Insufficient evidence | 40th/41 (very low) | 39th/41 (very low) | Not documented |
+| 7 | UniSQ | #351-400 | 22 | Yes (Toowoomba) | $31,840 | High Affordability | Int'l Student Support (10%) | $28,656 | **4 yrs** | Insufficient evidence | 32nd/41 (low) | 29th/41 (below avg) | Not documented |
+| 8 | Sydney | #38 | 2 | No (Sydney) | $57,900 | Go8 Elite | Sydney Int'l Award (20%) | $46,320 | **3 yrs** | Optional; may be paid or unpaid | 36th/41 (low) | 12th/41 (above avg) | 1,200+ generic partners; Google (research internship, specifically named) |
+| 9 | RMIT | #117 | 10 | No (Melbourne) | $44,160 | ATN/Tech Elite | STEM bursaries (20%) | ~$35,328 | **3 yrs** | Data Innovation Hub confirmed **paid**; general varies | 28th/41 (below avg) | 30th/41 (below avg) | Microsoft (named WIL project partner, Data Innovation Hub) |
+| 10 | QUT | #160 | 11 | No (Brisbane) | $45,000 | ATN/Industry | Int'l Merit (25%) | ~$33,750 | **3 yrs** | **Mandatory**, 2 units; may be paid/unpaid | 17th/41 (above avg) | 8th/41 (above avg) | RACQ, Food Connect (student testimonials, not guaranteed partners) |
+| 11 | UTS | #55 | 6 | No (Sydney) | $55,375 | ATN/Tech Elite | Academic Excellence (15–25%) | ~$47,068 | **3 yrs** | Optional; pay not stated | 21st/41 (average) | 20th/41 (average) | Not specifically named (1,000+ partners claimed generally) |
+| 12 | Monash | #51 | 4 | No (Melbourne) | $55,500 | Go8 Elite | Int'l Merit ($10k) | ~$45,500 | **3 yrs** | Optional, 2 paths; may be paid/unpaid | 33rd/41 (low) | 10th/41 (above avg) | Not specifically named for MIT |
+| 13 | Macquarie | #101 | 9 | No (Sydney) | $46,300 | Mid-Tier Metro | India-specific ($10k flat) | ~$36,300 | **3 yrs** | Optional dedicated units; PACE confirms paid/unpaid | 9th/41 (high) | 28th/41 (below avg) | Not specifically named (3,000+ PACE partners generally) |
+| 14 | Griffith | #201-250 | 15 | Yes (Gold Coast) | $43,500 | High Regional | Int'l Student (20–25%) | ~$34,800 | **4 yrs** | Optional; default unpaid | 13th/41 (above avg) | 19th/41 (average) | Rio Tinto (named for Engineering IAP, not confirmed for MIT) |
+| 15 | Swinburne | #251-300 | 17 | No (Melbourne) | $45,010 | ATN/Industry | STEM PG (30%) | $31,507 | **3 yrs** | Confirmed **unpaid** at Master's level | 30th/41 (below avg) | 37th/41 (low) | CSIRO, Bosch, Deloitte, Siemens (confirmed for the PAID bachelor's Professional Degree only — NOT the unpaid Master's internship) |
+| 16 | Newcastle | #251-300 | 16 | Yes (Newcastle) | $47,600 | Mid Regional | Int'l Excellence (20%) | $38,080 | **4 yrs** | Insufficient evidence | 26th/41 (below avg) | 16th/41 (average) | Not documented |
+| 17 | WSU | #251-300 | 18 | No (Sydney) | $42,240 | Mid-Tier Metro | VC Academic ($6k) | ~$36,240 | **3 yrs** | **Mandatory** unit; pay not specified | 10th/41 (high) | 21st/41 (average) | Not documented |
+| 18 | Flinders | #301-350 | 19 | Yes (Adelaide) | $42,900 | Mid Regional | Go Beyond (25%) | $32,175 | **4 yrs** | Not confirmed at Master's level | 29th/41 (below avg) | 3rd/41 (very high) | SAGE, Micro-X (broader STEM WIL, not Master of IT specifically) |
+| 19 | UniSA | #301-350 | 21 | Yes (Adelaide) | $37,100 | ATN/Regional | VC Int'l (15–50%) | ~$31,535 | **4 yrs** | Not confirmed at Master's level | 14th/41 (above avg) | 31st/41 (low) | DXC Technology (confirmed for Bachelor of IT only) |
+| 20 | CDU | #401-450 | 24 | Yes (Darwin) | ~$35,000 | High Affordability | Global Excellence (15–30%) | ~$29,750 | **4 yrs** | Insufficient evidence | 4th/41 (very high) | 7th/41 (above avg) | Not documented |
+| 21 | CSU | #451-500 | 25 | Yes (Regional NSW) | $33,216 | High Affordability | Int'l Student Support (10–20%) | ~$29,894 | **4 yrs** | Insufficient evidence | **41st/41 (lowest, 42.7%)** | **40th/41 (lowest, $56,400)** | Not documented |
+| 22 | Federation | 500+ | 26 | Yes (Ballarat) | $30,600 | High Affordability | Global Innovator (20%) | $24,480 | **4 yrs** | Insufficient evidence | 39th/41 (very low) | 26th/41 (below avg) | Not documented |
+| 23 | UniSC | 500+ | 27 | Yes (Sunshine Coast) | $29,600 | High Affordability | Int'l Support (15%) | $25,160 | **4 yrs** | Insufficient evidence | 25th/41 (below avg) | 23rd/41 (average) | Not documented |
+| 24 | Curtin | #151-200 | 13 | Yes (Perth) | ~$40,000 | Mid Regional | Global Future Leaders (25%) | ~$30,000 | **4 yrs** | Optional, "strong component"; pay not stated | 8th/41 (high) | 2nd/41 (very high) | Not specifically named for MIST |
+| 25 | Murdoch | #401-450 | 28 | Yes (Perth) | ~$38,000 | High Affordability | Int'l Welcome (20%) | ~$30,400 | **4 yrs** | Insufficient evidence | 38th/41 (very low) | 33rd/41 (low) | Not documented |
+| 26 | ECU | #401-450 | 29 | Yes (Perth) | ~$36,000 | High Affordability | Int'l Masters (20%) | ~$28,800 | **4 yrs** | Insufficient evidence | 11th/41 (high) | 18th/41 (average) | Not documented |
+| 27 | La Trobe | #301-350 | 23 | Yes (Regional Vic) | ~$42,000 | Mid Regional | Excellence (20% likely) | ~$33,600 | **4 yrs** | Optional final-project choice; pay not stated | 34th/41 (low) | 32nd/41 (low) | Microsoft (certification partner only — not confirmed as internship/placement partner) |
+| 28 | Victoria Uni | #451-500 | 30 | No (Melbourne) | ~$35,000 | Mid-Tier Metro | Global (20%) | $28,000 | **3 yrs** | Insufficient evidence | 7th/41 (high) | 15th/41 (average) | Not documented |
+| 29 | Bond | Unranked | 31 | Yes (Gold Coast) | ~$50,000 | Private Elite | Transformer (up to 50%) | ~$35,000 | **4 yrs** | Optional, flexible structure; pay not stated | 2nd/41 (very high) | 14th/41 (average) | Not specifically named |
+| 30 | UNSW | #54 | 5 | No (Sydney) | $63,000 | Go8 Elite | Academic Award (15%) | $53,550 | **3 yrs** | Optional; may be paid or unpaid | 18th/41 (above avg) | 24th/41 (below avg) | Atlassian, Commonwealth Bank, Google, Honeywell, Microsoft, WiseTech Global |
+| 31 | Melbourne | #31 | 1 | No (Melbourne) | $62,976 | Go8 Elite | Merit only (unlikely) | $62,976 | **3 yrs** | Confirmed **unpaid** ("vocational placement") | 12th/41 (above avg) | 6th/41 (above avg) | Named categories only (banking/finance, HCI, consulting, health) — no specific companies confirmed |
+
+### Reading This Responsibly
+
+1. **The QILT ranks are NOT IT-specific.** They reflect each university's *entire* international postgraduate coursework cohort (business, engineering, health, everything pooled). A university could rank well overall while its specific IT program under- or over-performs that average, or vice versa. Treat this column as a proxy for "how this university's international postgrad career support and local labour-market conditions perform in general" — not a claim about IT graduates specifically.
+2. **The national IT-specific numbers are real but can't be broken down by university:** international postgrad Computing & IT graduates nationally had a 49.0% full-time employment rate and $70,000 median salary in 2024 — a genuinely tough number, well below domestic IT postgrads ($110,000, 81.2%). This gap is largely attributed by QILT itself to age/experience differences and to visa-status hiring friction, not necessarily poor course quality.
+3. **UWA is a standout, not by luck** — it's simultaneously #1 in Australia for international postgrad salary (all fields) and among the top regional-visa-benefit institutions on this list. That's two independently-sourced signals pointing the same direction.
+4. **Charles Sturt University is bottom of both QILT tables** (lowest employment rate and lowest salary among all 41 universities, international postgrad, all fields) — worth weighing against its otherwise attractive practical fee.
+5. **Employer partner data is genuinely thin.** Most universities either don't publish named CS/IT-specific placement partners, or only publish partners for adjacent programs (business, engineering) that may or may not extend to the Master's IT cohort. Where names are listed, the text is explicit about what program they were actually confirmed for — don't read "Rio Tinto" next to Griffith as a guarantee you'd intern there in the MIT program specifically.
+
+**Sources:** QS World University Rankings by Subject 2026; official university fee schedules and course pages (2026 cycle); Australian Department of Home Affairs 485 visa rules (2026, including AI-ECTA); 2024 QILT Graduate Outcomes Survey International Report (Social Research Centre / Australian Government Department of Education).
 
 ---
 
